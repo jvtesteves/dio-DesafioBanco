@@ -24,5 +24,4 @@ public class Bank {
         from.transfer(to, amount);
     }
 
-    // Outros métodos de gerenciamento do banco
 }

@@ -6,5 +6,4 @@ public class CheckingAccount extends Account {
         super(number, client);
     }
 
-    // Métodos específicos de conta corrente
 }

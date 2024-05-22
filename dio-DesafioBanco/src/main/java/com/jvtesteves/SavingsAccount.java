@@ -6,5 +6,4 @@ public class SavingsAccount extends Account {
         super(number, client);
     }
 
-    // Métodos específicos de conta poupança
 }
